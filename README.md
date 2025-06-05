@@ -1,23 +1,23 @@
 # InDesign_AlignDistributePreference
 Distribute evenly  Shortcut compatible version
 
-オブジェクトを等間隔に分布させるスクリプト
+オブジェクトを等間隔に分布させるスクリプトて<br>
 DistributePanel.jsx
 DistributeHorizontal.jsx
 DistributeVertical.jsx
 
-使い方：
+使い方：て<br>
 最初にショートカットの割り当て<br>
-InDesignの「編集/キーボードショートカット」
-機能エリア：スクリプト
+InDesignの「編集/キーボードショートカット」て<br>
+機能エリア：スクリプトて<br>
 ・DistributeHorizontal.jsx
 　option+command+←
 ・DistributeVertical.jsx
 　option+command+→
 
-DistributePanel.jsxを実行するとパネルが表示され
-数値の入力欄に数値を入れた状態でショートカットを押すと分布がされます
-キーオブジェクトを設定した状態でショートカットを押した時も同様に
+DistributePanel.jsxを実行するとパネルが表示されて<br>
+数値の入力欄に数値を入れた状態でショートカットを押すと分布がされますて<br>
+キーオブジェクトを設定した状態でショートカットを押した時も同様にて<br>
 
 --------------
 Script for Evenly Distributing Objects
