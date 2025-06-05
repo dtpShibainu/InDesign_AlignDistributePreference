@@ -1,4 +1,6 @@
 オブジェクトを等間隔に分布させるスクリプト
+mmを前提にしています
+
 DistributePanel.jsx
 DistributeHorizontal.jsx
 DistributeVertical.jsx
