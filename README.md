@@ -7,6 +7,7 @@ DistributeHorizontal.jsx<br>
 DistributeVertical.jsx<br>
 
 使い方：<br>
+mmを前提にしています。<br>
 最初にショートカットの割り当て<br>
 InDesignの「編集/キーボードショートカット」<br>
 機能エリア：スクリプト<br>
