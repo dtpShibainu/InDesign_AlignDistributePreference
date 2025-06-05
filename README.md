@@ -7,7 +7,7 @@ DistributeHorizontal.jsx
 DistributeVertical.jsx
 
 使い方：
-最初にショートカットの割り当て
+最初にショートカットの割り当て<br>
 InDesignの「編集/キーボードショートカット」
 機能エリア：スクリプト
 ・DistributeHorizontal.jsx
