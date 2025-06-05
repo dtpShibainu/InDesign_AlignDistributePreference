@@ -1,7 +1,7 @@
 #target "InDesign"
 
 var spacingStr = $.getenv("lastSpacing") || "10mm";
-var spacingVal = new UnitValue(spacingStr).as("pt");
+var spacingVal = new UnitValue(spacingStr).as("mm");
 
 if (app.documents.length === 0 || app.selection.length < 2) {
     alert("オブジェクトを選択してください。");
