@@ -18,17 +18,6 @@ spacingInput.onChanging = function () {
     $.setenv("lastSpacing", spacingInput.text);
 };
 
-win.addEventListener("keydown", function (k) {
-    if (!k.metaKey || !k.altKey) return;
-    if (k.keyName === "Left") {
-        distribute("VERTICAL");
-        k.preventDefault();
-    } else if (k.keyName === "Right") {
-        distribute("HORIZONTAL");
-        k.preventDefault();
-    }
-});
-
 function distribute(mode) {
     if (app.documents.length === 0 || app.selection.length < 2) {
         alert("2つ以上のオブジェクトを選択してください。");
